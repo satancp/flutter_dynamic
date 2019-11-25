@@ -7,7 +7,7 @@ It includes several parts:
 
 1. dart2json: A compiler to convert dart/flutter codes/projects to several json config files.
 
-2. parser&receiver: The SDK to rebuild flutter app with remote json config files.
+2. parser&receiver: The SDK integrated in the client app to rebuild flutter app with remote json config files.
 
 3. config server: A server to publish configs to all clients.
 
